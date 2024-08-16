@@ -5,7 +5,7 @@
     "comment3": "http://127.0.0.1:7890"
   },
   "app": {
-    "local_chrome_path": "D:\\d\\shuax_chrome\\Chrome"
+    "local_chrome_path": "C:\\shuax_chrome\\Chrome"
     ,"proxy_url": ""
   }
 }
